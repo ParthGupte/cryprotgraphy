@@ -14,4 +14,6 @@ def dislog(h,g,p):
                 return i*k-j
 
 
-print(dislog(974,2,1373))
+print(dislog(21,11,71))
+print(dislog(116,156,593))
+print(dislog(2213,650,3571))
